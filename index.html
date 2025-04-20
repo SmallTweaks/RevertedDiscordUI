@@ -835,16 +835,7 @@
 	:root .base_c48ade .sidebar_c48ade:after {
 		display: none;
 	}
-	/*Betterfolders (vencord)*/
-	.base_c48ade.vc-betterFolders-sidebar-grid {
-	  grid-template-columns: [start] 80px [guilds-end] min-content [betterFoldersSidebar-end] 240px [channelsEnd] 1fr [end];
-	  grid-template-areas: "titleBar titleBar titleBar titleBar" "guildsList betterFoldersSidebar notice notice" "guildsList betterFoldersSidebar channelsList page";
-	}
-	.base_c48ade.vc-betterFolders-sidebar-grid .sidebar_c48ade {
-	  grid-template-columns: [start] 80px [guilds-end] min-content [betterFoldersSidebar-end] 240px [end];
-	  grid-template-areas: "guilds betterFoldersSidebar sidebar" "guilds betterFoldersSidebar panels";
-	  width: auto !important;
-	}
+	
 	/* user panel */
 	.base_c48ade .sidebar_c48ade > .panels_c48ade {
 		grid-area: panels;
@@ -1720,7 +1711,7 @@ html .bar_c38106 {
 			height: 48px;
 			overflow: hidden;
 			border-radius: 16px;
-			--bg-mod-subtle: rgba(114, 137, 218, 0.4) !important;
+			--bg-mod-subtle: #b7bafa !important;
 		}
 		.iconSizeMini_f34534 {
 			width: 16px;
