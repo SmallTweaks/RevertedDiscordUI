@@ -1,4 +1,4 @@
-# TweakedOldcord
+# RevertedDiscord
 So this is a themes/CSS code that I cobbled together from specific pieces of OldCord code and other code snippets available on the web.
 
 Below are the results (light mode vs dark mode)!
