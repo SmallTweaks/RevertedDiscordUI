@@ -6,8 +6,6 @@ Below are the results (light mode vs dark mode)!
 
 <img width="1434" alt="Screenshot 2025-04-19 at 6 21 22 PM" src="https://github.com/user-attachments/assets/a641b7d8-6558-45a1-a0e2-9491fc57dc62" />
 
-Minor issue in that the inbox and ?/help buttons are no longer visible as part of compressing the top bar so that it isn't in the way, and the close, minimize, full screen buttons overlap with the discord logo (and might not be visible for some?).
-
 If you're interested in using, add
 ```
 @import url("https://smalltweaks.github.io/RevertedDiscordUI/");
